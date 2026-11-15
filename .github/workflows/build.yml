@@ -14,3 +14,4 @@ jobs:
         with:
           name: bot-exe
           path: dist/bot.exe
+          
