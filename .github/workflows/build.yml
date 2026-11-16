@@ -13,5 +13,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: bot-exe
-          path: dist/bot.exe
-          
+          path: dist/bot.exe       
